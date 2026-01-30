@@ -1,0 +1,2 @@
+zcatalyst-sdk==1.0.3
+cryptography

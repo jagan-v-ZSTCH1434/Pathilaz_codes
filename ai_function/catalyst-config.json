@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "ai_function",
+		"stack": "python_3_9",
+		"type": "cron",
+		"env_variables": {"key":"1a2b3c4d5e6f7890abcdef1234567890fedcba0987654321abcdef1234567890"}
+	},
+	"execution": {
+		"main": "main.py"
+	}
+}
